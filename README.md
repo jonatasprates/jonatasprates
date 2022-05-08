@@ -1,6 +1,6 @@
   ### Olá 👋
   
-  - No momento estou trabalhando com front-end usando HTML5, CSS3, Boostrap, React e NextJs.
+  - No momento estou trabalhando com front-end usando HTML5, CSS3, Boostrap, React, TypeScript e NextJs.
 
 <div>
   <a href="https://github.com/jonatasprates">
